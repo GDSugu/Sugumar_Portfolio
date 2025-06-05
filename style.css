@@ -41,7 +41,7 @@ section{
 
 .animated-text{
   position: relative;
-  height: 70px;
+  height: 85px;
   overflow: hidden;
 }
 
@@ -234,7 +234,7 @@ body{
 .about .content .col-left .img-card{
   position: relative;
   width: 100%;
-  min-height: 450px;
+  min-height: 559px;
 }
 
 .about .content .col-left .img-card img{
